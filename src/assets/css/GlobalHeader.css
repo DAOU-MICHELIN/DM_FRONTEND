@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.logo #dm_logo{
+    width: auto;
+    height: 80%;
+}
+.logo #dm_title{
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: 100%;
+}
+.search #box{
+    width: 100%;
+    height: 38px;
+    border-radius: 30px;
+    border: 0px; 
+}
