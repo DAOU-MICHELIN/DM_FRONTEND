@@ -32,6 +32,8 @@ header .header_box{
     justify-content: center;
     align-items: center;
     width: 80%;
+    height: 100%;
+    margin: 50px;
 }
 
 
